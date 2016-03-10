@@ -21,6 +21,7 @@ var insects = [
       eatsDung: true,
       eatsPlants: false,
     },
+  },
   {
     name: 'Ant Nest Beetle',
     img: 'stag-beetle.jpg',
@@ -31,6 +32,7 @@ var insects = [
       eatsDung: true,
       eatsPlants: false,
     },
+  },
   {
     name: 'Ant Nest Beetle',
     img: 'tortoise-beetle.jpg',
@@ -41,6 +43,7 @@ var insects = [
       eatsDung: false,
       eatsPlants: true,
     },
+  },
 ];
 
 // ##########################################################
